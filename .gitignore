@@ -1,0 +1,5 @@
+.DS_Store
+vinzee.venv/
+__pycache__/
+.ipynb_checkpoints/
+.streamlit/
